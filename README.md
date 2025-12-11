@@ -1,4 +1,4 @@
-# LeetCode Solutions by asdfaw021
+# LeetCode Solutions by mikepnzip
 
 Welcome to my LeetCode solutions repository! This project contains my solutions to 70 LeetCode problems, all implemented in **Java**. I initially solved some problems in C but later rewrote them in Java to deepen my understanding and align with my focus on backend development.
 
